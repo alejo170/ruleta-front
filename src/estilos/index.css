@@ -77,6 +77,14 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.tabla{
+ 
+  margin-left: auto;
+  margin-top:  -5px;
+ 
+ 
+}
+
 /* Area de la imagen principal*/
 
 header.masthead {
