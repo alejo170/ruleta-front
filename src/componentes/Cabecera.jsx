@@ -23,13 +23,17 @@ const cabecera = () => {
                 </div></NavLink></li>
 
         
-        <li><NavLink to='/jugadores' className='nav-link py-3 px-0 px-lg-3 rounded'> 
+            <li><NavLink to='/jugadores' className='nav-link py-3 px-0 px-lg-3 rounded'> 
                 <div>
                     <i className='fas fa-users fa-fw' />
                     <span>Jugadores</span>
                 </div></NavLink></li>
         
-           
+            <li><NavLink to='/jugar' className='nav-link py-3 px-0 px-lg-3 rounded'> 
+                <div>
+                    <i className='fas fa-play fa-fw' />
+                    <span>A Jugar!</span>
+                </div></NavLink></li>   
             
             
         </ul>

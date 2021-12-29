@@ -78,7 +78,7 @@ const Jugadores = () => {
     
         setEliminar(false)
         actualizarDatosback();
-        toast.success("El Jugador ha sido elminado");
+        toast.success("El Jugador ha sido eliminado");
         setCedulaB("");
         setUsuario({
           nombre: "",
